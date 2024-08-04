@@ -1,2 +1,2 @@
 # learning-git
-this is a private repo
+this is a public repo for learning github
